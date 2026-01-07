@@ -3,6 +3,7 @@ python code to convert you speech into text in multiple languages
 prerequisites
 
 Open visual studio terminal and download the below libraries
+
 pip install pyttsx3
 pip install SpeechRecognition
 pip install pydub
